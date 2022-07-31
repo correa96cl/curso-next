@@ -1,4 +1,4 @@
-##curso-next
+#curso-next
 Curso da Next da Alura.
 
 # Criação do projeto
