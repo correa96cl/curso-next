@@ -1,4 +1,4 @@
-#curso-next
+# curso-next
 Curso da Next da Alura.
 
 # Criação do projeto
@@ -12,7 +12,7 @@ npm init -y
 npm i next react react-dom
 ```
 
-# Correr o projeto localment
+# Correr o projeto localmente
 ```bash
 npm run dev
 ```
